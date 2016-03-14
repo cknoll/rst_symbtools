@@ -8,7 +8,9 @@ before_install:
 
 install:
  - python setup.py install
+ - pwd
+ - ls -l
 
 # command to run tests
 script:
- - python tests/test_core.py
+ - python symbtools/tests/test_core.py
