@@ -1,0 +1,14 @@
+language: python
+
+python:
+  - "2.7"
+
+before_install:
+  - echo "Test"
+
+install:
+ - python setup.py install
+
+# command to run tests
+script:
+ - python tests/test_core.py
