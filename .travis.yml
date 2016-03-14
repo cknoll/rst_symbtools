@@ -20,5 +20,4 @@ install:
 
 # command to run tests
 script:
- - python symbtools/tests/test_fast.py
- - python symbtools/tests/test_core.py
+ - python symbtools/tests/test_all.py
