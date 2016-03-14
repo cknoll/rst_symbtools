@@ -20,4 +20,4 @@ install:
 
 # command to run tests
 script:
- - python symbtools/tests/test_all.py
+ - python symbtools/tests/test_all.py all
