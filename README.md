@@ -1,3 +1,13 @@
+
+Note:
+=====
+This repository is now a fork of <https://github.com/TUD-RST/symbtools>. It should be synchronized but please check that repo for recent development progress.
+
+---
+
+---
+
+
 [![PyPI Package Link](https://badge.fury.io/py/symbtools.svg "PyPI Package Link")](https://badge.fury.io/py/symbtools) [![Travis CI Unit Test Result badge](https://travis-ci.org/TUD-RST/symbtools.svg?branch=master "Travis CI Unit Test Result badge")](https://travis-ci.org/TUD-RST/symbtools)    
 
     
